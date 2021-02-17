@@ -1,4 +1,4 @@
-### :computer: Developer
+### :computer: Developer (Python C/C++)
 
 ### :penguin: Open Source Enthusiast
 
