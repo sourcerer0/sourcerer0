@@ -1,6 +1,4 @@
-### :computer: Developer
-
-### :penguin: Open Source Enthusiast
+### :computer::penguin: Developer & Open Source Enthusiast
 
 ### :telescope: Information Systems undergrad
 
