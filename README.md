@@ -2,4 +2,6 @@
 
 ### :penguin: Open Source Enthusiast
 
-### :telescope: IS Undergraduate at UNIRIO
+### :telescope: Information Systems undergrad
+
+### :round_pushpin: Rio de Janeiro, Brazil
